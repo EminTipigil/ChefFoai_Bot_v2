@@ -1,0 +1,12 @@
+{
+  "start": "Hi! I'm ChefFoai — your friendly virtual chef 🤖🍳",
+  "choose_language": "Please choose a language:",
+  "main_menu": "What shall we cook today?",
+  "ask_ingredients": "Please send your ingredients (comma separated or a line).",
+  "random_recipe": "Here is a random recipe for you:",
+  "chef_tip": "Chef's tip: don't be afraid to add a pinch of salt — it unlocks flavors!",
+  "favorites_empty": "You don't have favorite recipes yet.",
+  "history_empty": "History is empty.",
+  "shopping_empty": "Shopping list is empty.",
+  "done": "Done! Enjoy your meal 🍽"
+}
